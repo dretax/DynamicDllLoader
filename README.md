@@ -1,5 +1,5 @@
 # DynamicDllLoader
-DynamicDllLoader in C# for native dlls
+DynamicDllLoader in C# for **native dlls (C / C++)**
 
 # Loading a DLL from memory
 This project describes a technique how a dynamic link library (DLL) can be loaded from memory without storing it on the hard-disk first.
